@@ -4,7 +4,6 @@
 
 📩 **Email:** [sonishriyash@gmail.com](mailto:sonishriyash@gmail.com)  
 🔗 **LinkedIn:** [Shriyash Soni](https://www.linkedin.com/in/shriyash-soni)  
-📷 **Profile Picture:** [Image URL](Provide the link to your preferred image)  
 📍 **Location:** Jabalpur, Madhya Pradesh, India
 
 ---
@@ -56,25 +55,25 @@ I have built AI-based cybersecurity tools, interactive games, and college predic
 ## 💡 Featured Projects
 
 1. **Cyber Threat Intelligence Graph**
-   - 🔗 [GitHub: Cyber-Threat-Intelligence-Graph](https://github.com/yourusername/Cyber-Threat-Intelligence-Graph)
+   - 🔗 [GitHub: Cyber-Threat-Intelligence-Graph](https://github.com/shriyashsoni/Cyber-Threat-Intelligence-Graph)
    - Detects malicious IPs, phishing domains, and attack patterns using ArangoDB, GraphRAG, and NVIDIA cuGraph.
 
 2. **Face Detection AI Game**
-   - 🔗 [GitHub: Face-Detection-Game](https://github.com/yourusername/Face-Detection-Game)
+   - 🔗 [GitHub: Face-Detection-Game](https://github.com/shriyashsoni/Face-Detection-Game)
    - AI-powered interactive game that detects facial expressions to earn points.
 
 3. **MHT CET College Predictor**
    - 🔗 [Website: Apna Counsellor](https://apnacounsellor.com)
-   - 🔗 [GitHub: MHTCET-College-Predictor](https://github.com/yourusername/MHTCET-College-Predictor)
+   - 🔗 [GitHub: MHTCET-College-Predictor](https://github.com/shriyashsoni/MHTCET-College-Predictor)
    - A smart college predictor that estimates admissions based on MHT CET percentile.
 
 4. **Apna Coding – Global Coding Platform**
-   - 🔗 [GitHub: Apna-Coding](https://github.com/yourusername/Apna-Coding)
+   - 🔗 [GitHub: Apna-Coding](https://github.com/shriyashsoni/Apna-Coding)
    - Offers online courses, hackathons, AI tools, and job opportunities.
 
 5. **DeepSeek-V3 & DeepSeek-Coder**
-   - 🔗 [GitHub: DeepSeek-V3](https://github.com/yourusername/DeepSeek-V3)
-   - 🔗 [GitHub: DeepSeek-Coder](https://github.com/yourusername/DeepSeek-Coder)
+   - 🔗 [GitHub: DeepSeek-V3](https://github.com/shriyashsoni/DeepSeek-V3)
+   - 🔗 [GitHub: DeepSeek-Coder](https://github.com/shriyashsoni/DeepSeek-Coder)
    - AI-powered coding assistant forked from DeepSeek-V3.
   
 
@@ -93,10 +92,19 @@ I have built AI-based cybersecurity tools, interactive games, and college predic
 - **Pitching** – IIT Bombay’s E-Summit 2025 (Apna Counsellor)
 - **Representing** – Apna Counsellor at Innovest 2025
 
-### Certifications
-- **AI & Cybersecurity Training**
-- **Data Science & Machine Learning (Coursera)**
-- **Full-Stack Web Development**
+# Certificates
+
+- Data Engineering Foundation
+- GenAl Christmas Edition
+- Python Crash Course
+- AI For Impact APAC Hackathon 2024
+- Shark Tank Finalist Certification
+- Certificate of Participation in Unstop Innovatex
+- Applying AI Principles with Google Cloud
+- Describe Dynamics 365 Finance
+- Introduction to Generative AI
+- Introduction to Large Language Models
+- Introduction to Responsible AI
 
 ---
 

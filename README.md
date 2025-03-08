@@ -126,15 +126,4 @@ I have built AI-based cybersecurity tools, interactive games, and college predic
 📷 **Instagram:** [@sonishriyash](https://instagram.com/sonishriyash)  
 📹 **YouTube:** [Shriyash Soni](https://youtube.com/channel/SHRIYASHSONI_2005)
 
----
 
-## 🌟 Portfolio Enhancements (If Website Needed)
-
-- GitHub Stats & Contributions
-- YouTube Video Embeds (From Apna Counsellor & Personal Channel)
-- Visitor Counter & Badges
-- Interactive Resume & Blog Section
-
----
-
-Let me know if you need any modifications or if you want this as a portfolio website! 🚀

@@ -40,14 +40,17 @@ I have built AI-based cybersecurity tools, interactive games, and college predic
 ## 💼 Work Experience
 
 ### Founder – Apna Counsellor (2024 – Present)
-- Helped 120+ students with career counseling and admissions.
-- Developed MHT CET College Predictor for admission insights.
-- Earned ₹3,00,000+ from management quota admissions.
+- Apna Counsellor is India's No. 1 student counseling and mentorship platform.
+- Helped over 5000+ students through personalized mentorship and admission support.
+- Trusted by students across the country with over 15,000+ counseling sessions in 2025.
+- Recognized as a Top Mentorship Platform for competitive exams, admissions, and career guidance.
+- Now scaling into a national platform for counseling, AI tools, and student success.
 
-### Founder – Apna Coding (2025 – Present)
-- Built a global coding platform offering courses, hackathons, and AI-powered tools.
-- Partnered with STEM4Youth USA and expanded outreach.
-- Shortlisted for Pears Hackathon 2025.
+### Founder – Apna Coding (2024 – Present)
+- Built a global developer platform with 20,000+ members across 5+ countries.
+- Provides hackathons, courses, AI tools, and internship/jobs.
+- Partnered with STEM4Youth USA and multiple international networks.
+- Shortlisted at Pears Hackathon 2025 for innovation in edtech.
 
 ---
 

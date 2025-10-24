@@ -120,58 +120,6 @@ Brixs is an innovative platform integrating **Machine Learning** with **Blockcha
 
 ---
 
-## 🏆 Featured Projects
-
-### **🔐 Brixs - AI-Powered Smart Contract Automation**
-*Oct 2025 – Present*
-
-Integrating **Machine Learning** with **Blockchain** to automate smart contract generation, validation, and deployment.
-- **Powered by:** Solana, $BRIXS Token
-- **Features:** AI-driven contract optimization, automated security audits, token economics modeling
-- **Impact:** Reducing smart contract deployment time by 80%
-
-### **💻 Cyber Threat Intelligence Graph**
-*GitHub: [Cyber-Threat-Intelligence-Graph](https://github.com/shriyashsoni/Cyber-Threat-Intelligence-Graph)*
-
-Advanced threat detection system using **ArangoDB**, **GraphRAG**, and **NVIDIA cuGraph**
-- Detects malicious IPs, phishing domains, and attack patterns
-- Real-time anomaly detection with graph-based analysis
-- Enterprise-grade security intelligence
-
-### **🎮 Face Detection AI Game**
-*GitHub: [Face-Detection-Game](https://github.com/shriyashsoni/Face-Detection-Game)*
-
-Interactive AI-powered game leveraging facial expression recognition
-- Real-time face detection and emotion analysis
-- Gamified learning experience
-- Built with TensorFlow and OpenCV
-
-### **🏫 MHT CET College Predictor**
-*Website: [Apna Counsellor](https://apnacounsellor.com)*
-
-Smart college admission prediction system
-- ML-based percentile analysis
-- Personalized college recommendations
-- Helped 5,000+ students with admissions
-
-### **🌐 Apna Coding - Global Developer Platform**
-*GitHub: [Apna-Coding](https://github.com/shriyashsoni/Apna-Coding)*
-
-Community platform with 20,000+ developers across 5+ countries
-- Hackathons, courses, AI tools
-- Job board and internship opportunities
-- International partnerships (STEM4Youth USA)
-
-### **🤖 ZoraMuse - AI × NFT Platform**
-*Built on Zora Protocol*
-
-AI-powered digital asset creation and trading platform
-- Generative AI for NFT creation
-- Decentralized curation system
-- Community-driven marketplace
-
----
-
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shriyashsoni&show_icons=true&theme=radical&hide_border=true)

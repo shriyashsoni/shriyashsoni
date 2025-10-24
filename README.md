@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyash-soni)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriyashsoni)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shriyashsoni_2005)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shriyash_soni)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonishriyash@gmail.com)
 
 ---
@@ -192,7 +192,7 @@ Brixs is an innovative platform integrating **Machine Learning** with **Blockcha
 [![Email](https://img.shields.io/badge/Email-sonishriyash@gmail.com-EA4335?style=for-the-badge)](mailto:sonishriyash@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shriyash%20Soni-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/shriyash-soni)
 [![GitHub](https://img.shields.io/badge/GitHub-shriyashsoni-181717?style=for-the-badge)](https://github.com/shriyashsoni)
-[![Twitter](https://img.shields.io/badge/Twitter-@shriyashsoni_2005-1DA1F2?style=for-the-badge)](https://twitter.com/shriyashsoni_2005)
+[![Twitter](https://img.shields.io/badge/Twitter-@shriyashsoni_2005-1DA1F2?style=for-the-badge)](https://twitter.com/shriyash_soni)
 [![Website](https://img.shields.io/badge/Website-Linktree-FF6B6B?style=for-the-badge)](https://linktr.ee/Shriyash_soni)
 
 ---

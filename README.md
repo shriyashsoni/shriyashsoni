@@ -1,138 +1,261 @@
-# Shriyash Soni
+<div align="center">
 
-### Entrepreneur | Software Engineer | AI Developer | Content Creator
+# ⛓️ Shriyash Soni
 
-📩 **Email:** [sonishriyash@gmail.com](mailto:sonishriyash@gmail.com)  
-🔗 **LinkedIn:** [Shriyash Soni](https://www.linkedin.com/in/shriyash-soni)  
-📍 **Location:** Jabalpur, Madhya Pradesh, India
+### **AI/Web3 Entrepreneur & Blockchain Builder**
 
----
-
-## 👨‍💻 About Me
-
-I am a passionate software engineer, entrepreneur, and content creator, driven by innovation in AI, cybersecurity, and education. I founded Apna Counsellor and Apna Coding, empowering students and developers globally. I specialize in full-stack development, AI-powered applications, and startup growth.
-
-I have built AI-based cybersecurity tools, interactive games, and college prediction systems, participated in global hackathons, and pitched my startup at IIT Bombay, IIT Hyderabad, and Innovest 2025.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyash-soni)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriyashsoni)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shriyashsoni_2005)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonishriyash@gmail.com)
 
 ---
 
-## 🚀 Skills & Expertise
+## 🚀 About Me
 
-- **Programming:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- **AI & Data Science:** Machine Learning, Deep Learning, ArangoDB, NVIDIA cuGraph
-- **Cybersecurity:** Cyber Threat Intelligence, Anomaly Detection, GraphRAG
-- **Software Development:** Web & App Development, Open-Source Contributions
-- **Entrepreneurship & Growth:** Business Development, Fundraising, Marketing
-- **Content Creation:** YouTube, Blogging, Video Editing
+Innovative 19-year-old **DeepTech entrepreneur** and **Web3 builder** with a proven track record of founding and scaling ventures. Founder of **Apna Coding** (20,000+ global developers) and **Apna Counsellor** (5,000+ students mentored). 
+
+**BNB Martian Member** | **BGA Ambassador** | **Google DevFest 2024 Speaker** | **Harvard AE Scholar**
+
+Building the future of **AI-powered blockchain automation** with **Brixs** — integrating Machine Learning with smart contracts across **Solana**, **Polygon**, **Zora**, and **Citrea**.
 
 ---
-## 📊 GitHub Stats
 
-![Shriyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=shriyashsoni&show_icons=true&theme=radical)
+## 🔗 Blockchain Experience
 
+I have extensive experience building and deploying on multiple blockchain networks:
 
-## 💼 Work Experience
+<table>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/BNB%20Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=black" />
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Zora-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Flow-00EF8B?style=for-the-badge&logo=flow&logoColor=black" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Filecoin-0090FF?style=for-the-badge&logo=filecoin&logoColor=white" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/0G-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Self%20Chain-9B59B6?style=for-the-badge&logo=ethereum&logoColor=white" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Citrea-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" />
+</td>
+<td colspan="2" align="center">
+  <img src="https://img.shields.io/badge/And%20Many%20More-4ECDC4?style=for-the-badge" />
+</td>
+</tr>
+</table>
 
-### Founder – Apna Counsellor (2024 – Present)
-- Apna Counsellor is India's No. 1 student counseling and mentorship platform.
-- Helped over 5000+ students through personalized mentorship and admission support.
-- Trusted by students across the country with over 15,000+ counseling sessions in 2025.
-- Recognized as a Top Mentorship Platform for competitive exams, admissions, and career guidance.
-- Now scaling into a national platform for counseling, AI tools, and student success.
+**Smart Contracts** • **DeFi Protocols** • **NFT Platforms** • **Layer 1 & Layer 2** • **Token Economics** • **Cross-Chain Development**
 
-### Founder – Apna Coding (2024 – Present)
-- Built a global developer platform with 20,000+ members across 5+ countries.
-- Provides hackathons, courses, AI tools, and internship/jobs.
-- Partnered with STEM4Youth USA and multiple international networks.
-- Shortlisted at Pears Hackathon 2025 for innovation in edtech.
+---
+
+## 🏗️ Brixs - AI-Powered Blockchain Automation
+
+<div align="center">
+
+![Brixs - Bridging Machine Learning and Blockchain](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot_24-10-2025_235725_-mdx10vmhzXJ302cjswU3D63pYbOr4T.jpeg)
+
+</div>
+
+---
+
+**Building the future of intelligent smart contracts**
+
+Brixs is an innovative platform integrating **Machine Learning** with **Blockchain** to automate smart contract generation, validation, and deployment across multiple networks.
+
+- **Powered by:** Solana, Polygon, Ethereum, and more
+- **Features:** AI-driven contract optimization, automated security audits, token economics modeling
+- **Impact:** Reducing smart contract deployment time by 80%
+
+---
+
+## 💻 Tech Stack
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+### **AI & Data Science**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4ECDC4?style=flat-square)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-9B59B6?style=flat-square)
+![ArangoDB](https://img.shields.io/badge/ArangoDB-FFA500?style=flat-square)
+![NVIDIA cuGraph](https://img.shields.io/badge/NVIDIA%20cuGraph-76B900?style=flat-square)
+
+### **Web & Blockchain Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=flat-square&logo=ethereum&logoColor=black)
+
+### **Cybersecurity**
+![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-E74C3C?style=flat-square)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-3498DB?style=flat-square)
+![Network Security](https://img.shields.io/badge/Network%20Security-2ECC71?style=flat-square)
+
+---
+
+## 🏆 Featured Projects
+
+### **🔐 Brixs - AI-Powered Smart Contract Automation**
+*Oct 2025 – Present*
+
+Integrating **Machine Learning** with **Blockchain** to automate smart contract generation, validation, and deployment.
+- **Powered by:** Solana, $BRIXS Token
+- **Features:** AI-driven contract optimization, automated security audits, token economics modeling
+- **Impact:** Reducing smart contract deployment time by 80%
+
+### **💻 Cyber Threat Intelligence Graph**
+*GitHub: [Cyber-Threat-Intelligence-Graph](https://github.com/shriyashsoni/Cyber-Threat-Intelligence-Graph)*
+
+Advanced threat detection system using **ArangoDB**, **GraphRAG**, and **NVIDIA cuGraph**
+- Detects malicious IPs, phishing domains, and attack patterns
+- Real-time anomaly detection with graph-based analysis
+- Enterprise-grade security intelligence
+
+### **🎮 Face Detection AI Game**
+*GitHub: [Face-Detection-Game](https://github.com/shriyashsoni/Face-Detection-Game)*
+
+Interactive AI-powered game leveraging facial expression recognition
+- Real-time face detection and emotion analysis
+- Gamified learning experience
+- Built with TensorFlow and OpenCV
+
+### **🏫 MHT CET College Predictor**
+*Website: [Apna Counsellor](https://apnacounsellor.com)*
+
+Smart college admission prediction system
+- ML-based percentile analysis
+- Personalized college recommendations
+- Helped 5,000+ students with admissions
+
+### **🌐 Apna Coding - Global Developer Platform**
+*GitHub: [Apna-Coding](https://github.com/shriyashsoni/Apna-Coding)*
+
+Community platform with 20,000+ developers across 5+ countries
+- Hackathons, courses, AI tools
+- Job board and internship opportunities
+- International partnerships (STEM4Youth USA)
+
+### **🤖 ZoraMuse - AI × NFT Platform**
+*Built on Zora Protocol*
+
+AI-powered digital asset creation and trading platform
+- Generative AI for NFT creation
+- Decentralized curation system
+- Community-driven marketplace
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shriyashsoni&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shriyashsoni&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech in Data Science (2024 – 2028)**
-  - RGPV University, Madhya Pradesh
+**Bachelor of Engineering in Data Science**
+- **Institution:** RGPV University, Jabalpur, Madhya Pradesh
+- **Expected Graduation:** September 2028
+- **Focus:** AI/ML, Blockchain, Cybersecurity
 
 ---
 
-## 💡 Featured Projects
+## 🏅 Awards & Recognition
 
-1. **Cyber Threat Intelligence Graph**
-   - 🔗 [GitHub: Cyber-Threat-Intelligence-Graph](https://github.com/shriyashsoni/Cyber-Threat-Intelligence-Graph)
-   - Detects malicious IPs, phishing domains, and attack patterns using ArangoDB, GraphRAG, and NVIDIA cuGraph.
-
-2. **Face Detection AI Game**
-   - 🔗 [GitHub: Face-Detection-Game](https://github.com/shriyashsoni/Face-Detection-Game)
-   - AI-powered interactive game that detects facial expressions to earn points.
-
-3. **MHT CET College Predictor**
-   - 🔗 [Website: Apna Counsellor](https://apnacounsellor.com)
-   - 🔗 [GitHub: MHTCET-College-Predictor](https://github.com/shriyashsoni/MHTCET-College-Predictor)
-   - A smart college predictor that estimates admissions based on MHT CET percentile.
-
-4. **Apna Coding – Global Coding Platform**
-   - 🔗 [GitHub: Apna-Coding](https://github.com/shriyashsoni/Apna-Coding)
-   - Offers online courses, hackathons, AI tools, and job opportunities.
-
-5. **DeepSeek-V3 & DeepSeek-Coder**
-   - 🔗 [GitHub: DeepSeek-V3](https://github.com/shriyashsoni/DeepSeek-V3)
-   - 🔗 [GitHub: DeepSeek-Coder](https://github.com/shriyashsoni/DeepSeek-Coder)
-   - AI-powered coding assistant forked from DeepSeek-V3.
-  
-
-### Languages Used
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shriyashsoni&layout=compact&theme=radical)
-
+| Award | Organization | Year |
+|-------|--------------|------|
+| **China Tech Fellowship 2025** | Shanghai, China | 2025 |
+| **Harvard Alumni Entrepreneurs (HarvardAE) Scholarship** | Harvard University | 2025 |
+| **GoWTF Hack 2025 Winner** | Flow/Fluxor Blockchain Hackathon | 2025 |
+| **Smart India Hackathon Mentor** | AICTE | 2025 |
+| **E-Summit Finalist** | IIT Bombay | 2025 |
+| **Eureka! 2025 Zonal Rounds** | Asia's Largest Business Competition | 2025 |
+| **Shark Tank 3.0 Finalist** | Gyan Ganga Institute of Technology | 2024 |
+| **Pears Hackathon Shortlist** | EdTech Innovation | 2025 |
 
 ---
 
-## 🏆 Achievements & Certifications
+## 📜 Certifications
 
-- **Finalist** – Shark Tank 3.0 (Gyan Ganga Institute of Technology)
-- **Shortlisted** – Pears Hackathon (Apna Coding)
-- **Selected** – Fetching Fortunes (IIT Hyderabad, Round 2)
-- **Pitching** – IIT Bombay’s E-Summit 2025 (Apna Counsellor)
-- **Representing** – Apna Counsellor at Innovest 2025
-
-# Certificates
-
-- Data Engineering Foundation
-- GenAl Christmas Edition
-- Python Crash Course
-- AI For Impact APAC Hackathon 2024
-- Shark Tank Finalist Certification
-- Certificate of Participation in Unstop Innovatex
-- Applying AI Principles with Google Cloud
-- Describe Dynamics 365 Finance
-- Introduction to Generative AI
-- Introduction to Large Language Models
-- Introduction to Responsible AI
+- ✅ Agentic AI and AI Agents: A Primer for Leaders — Vanderbilt University
+- ✅ Hack Together: AI Agents Hackathon — Microsoft
+- ✅ Applying AI Principles with Google Cloud — Google
+- ✅ Introduction to Responsible AI — Google
+- ✅ Data Engineering Foundation
+- ✅ GenAI Christmas Edition
+- ✅ Python Crash Course
+- ✅ AI For Impact APAC Hackathon 2024
 
 ---
 
-## 🎭 Hobbies & Interests
+## 🎯 Current Focus
 
-- **Music Production** – Released Frostveil Reverie, Mitti Ton Vibe, Echoes of Swag.
-- **Gaming & AI Development** – Created interactive AI-based games.
-- **Writing** – Currently writing a book on entrepreneurship.
-- **Content Creation** – Documenting my startup journey and tech opportunities.
+- 🔗 **Blockchain Automation:** Building AI-driven smart contract systems
+- 🤖 **AI Integration:** Combining ML with Web3 for next-gen applications
+- 👥 **Community Building:** Growing Apna Coding to 50,000+ developers
+- 📚 **Mentorship:** Guiding next-generation builders and entrepreneurs
 
 ---
 
-## 📞 Contact Information
+## 🎨 Creative Pursuits
 
-📩 **Email:** [sonishriyash@gmail.com](mailto:sonishriyash@gmail.com)  
-📌 **LinkedIn:** [Shriyash Soni](https://www.linkedin.com/in/shriyash-soni)  
-🌐 **Website & Portfolio:** [Linktree](https://linktr.ee/Shriyash_soni)  
-🐦 **Twitter/X:** [@shriyashsoni_2005](https://twitter.com/shriyashsoni_2005)  
-📷 **Instagram:** [@sonishriyash](https://instagram.com/sonishriyash)  
-📹 **YouTube:** [Shriyash Soni](https://youtube.com/channel/SHRIYASHSONI_2005)
+- 🎵 **Music Production:** Released *Frostveil Reverie*, *Mitti Ton Vibe*, *Echoes of Swag*
+- 🎮 **Game Development:** AI-powered interactive experiences
+- ✍️ **Writing:** Authoring a book on entrepreneurship and tech innovation
+- 📹 **Content Creation:** Documenting startup journey and tech opportunities
 
+---
 
+## 📞 Let's Connect
+
+<div align="center">
+
+**Reach out for collaborations, partnerships, or just to chat about Web3 and AI!**
+
+[![Email](https://img.shields.io/badge/Email-sonishriyash@gmail.com-EA4335?style=for-the-badge)](mailto:sonishriyash@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shriyash%20Soni-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/shriyash-soni)
+[![GitHub](https://img.shields.io/badge/GitHub-shriyashsoni-181717?style=for-the-badge)](https://github.com/shriyashsoni)
+[![Twitter](https://img.shields.io/badge/Twitter-@shriyashsoni_2005-1DA1F2?style=for-the-badge)](https://twitter.com/shriyashsoni_2005)
+[![Website](https://img.shields.io/badge/Website-Linktree-FF6B6B?style=for-the-badge)](https://linktr.ee/Shriyash_soni)
+
+---
+
+### 🌟 Open to:
+- **Blockchain Projects** | **AI/ML Collaborations** | **Startup Partnerships** | **Speaking Engagements** | **Mentorship**
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=shriyashsoni&color=blueviolet" alt="Profile Views" />
+
+**Made with ❤️ by Shriyash Soni**
+
+</div>

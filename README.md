@@ -120,14 +120,6 @@ Brixs is an innovative platform integrating **Machine Learning** with **Blockcha
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shriyashsoni&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shriyashsoni&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 🎓 Education
 
 **Bachelor of Engineering in Data Science**

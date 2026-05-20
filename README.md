@@ -389,20 +389,6 @@ Full-stack AI SaaS generator with CI/CD pipelines and third-party AI integration
 
 ---
 
-## <img src="https://img.shields.io/badge/-Beyond%20Code-9B59B6?style=flat-square&logo=creative&logoColor=white" height="26" align="center"/>
-
-<div align="center">
-
-| <img src="https://img.shields.io/badge/Music%20Production-1DB954?style=flat-square&logo=spotify&logoColor=white"/> | <img src="https://img.shields.io/badge/Game%20Dev-000000?style=flat-square&logo=unity&logoColor=white"/> | <img src="https://img.shields.io/badge/Writing-FF6B35?style=flat-square&logo=mdbook&logoColor=white"/> | <img src="https://img.shields.io/badge/Content%20Creation-FF0000?style=flat-square&logo=youtube&logoColor=white"/> |
-|:---:|:---:|:---:|:---:|
-| *Frostveil Reverie* | AI-powered interactive experiences | Authoring a book on entrepreneurship & tech innovation | Documenting startup journey & global opportunities |
-| *Mitti Ton Vibe* | | | |
-| *Echoes of Swag* | | | |
-
-</div>
-
----
-
 ## <img src="https://img.shields.io/badge/-2025–2026%20Focus-6EE7F7?style=flat-square&logo=target&logoColor=black" height="26" align="center"/>
 
 <div align="center">
